@@ -1003,6 +1003,15 @@ footer {
   }
 }
 
+@media (max-width: 277px) {
+  .title{
+    /* font-size: 1.3rem; */
+    /* display: none; */
+    text-align: center;
+    padding: 0 10px;
+  }
+}
+
 @media (max-width: 1043px) {
   .navItem__two a {
     margin-left: 20px;

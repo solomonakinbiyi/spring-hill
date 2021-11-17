@@ -1010,6 +1010,10 @@ footer {
     text-align: center;
     padding: 0 10px;
   }
+  .hero__overlay{
+    padding-top: 40px;
+    backdrop-filter: blur(.6rem);
+  }
 }
 
 @media (max-width: 1043px) {

@@ -1014,6 +1014,13 @@ footer {
     padding-top: 40px;
     backdrop-filter: blur(.6rem);
   }
+  .footer__item input{
+    font-size: 1rem;
+    margin-bottom: 30px;
+  }
+  .footer__item button{
+    font-size: 1rem;
+  }
 }
 
 @media (max-width: 1043px) {

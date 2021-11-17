@@ -1021,6 +1021,9 @@ footer {
   .footer__item button{
     font-size: 1rem;
   }
+  .whoweare__picture {
+    width: 100%;
+}
 }
 
 @media (max-width: 1043px) {

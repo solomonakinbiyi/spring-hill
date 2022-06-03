@@ -54,6 +54,10 @@ body {
   margin-left: 30px;
 }
 
+a.active{
+  color: #5fc4cd!important;
+}
+
 .tabletScreen__menu {
   display: none;
 }
